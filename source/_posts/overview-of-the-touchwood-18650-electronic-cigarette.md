@@ -1,7 +1,7 @@
 ---
 title: Overview of the Touchwood 18650 Electronic Cigarette
 date: 2018-9-24 10:15:00
-category: E-Cigarette
+category: e-cigarette
 ---
 
 ![](/images/2.jpg)
