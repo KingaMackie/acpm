@@ -1,7 +1,7 @@
 ---
 title: Smoking cigarettes, Cessation, and Neurodegenerative Diseases
 date: 2018-9-27 08:40:00
-category: Medical Implications
+category: medical implications
 ---
 
 ![](/images/8.jpg)
