@@ -1,7 +1,7 @@
 ---
 title: Where health Meets Politics
 date: 2018-7-25 14:20:00
-category: Electronic Cigarette Politics
+category: electronic cigarette politics
 ---
 
 ![](/images/5.jpg)
