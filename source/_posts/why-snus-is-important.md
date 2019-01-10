@@ -1,7 +1,7 @@
 ---
 title: Why Snus Is Important
 date: 2018-9-17 09:40:00
-category: Electronic Cigarette Politics
+category: electronic cigarette politics
 ---
 
 ![](/images/6.jpg)
