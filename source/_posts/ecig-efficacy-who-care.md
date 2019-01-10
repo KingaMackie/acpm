@@ -1,7 +1,7 @@
 ---
 title: Ecig Efficacy, Who care
 date: 2018-8-12 08:00:00
-category: E-Cigarette
+category: e-cigarette
 ---
 
 ![](/images/1.jpg)
