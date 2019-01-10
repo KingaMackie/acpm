@@ -1,7 +1,7 @@
 ---
 title: New Jersey Tobacco Harm Reduction Conference
 date: 2018-8-31 11:45:00
-category: Vaping News
+category: vaping news
 ---
 
 ![](/images/4.jpg)
