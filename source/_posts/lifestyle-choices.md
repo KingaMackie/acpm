@@ -1,7 +1,7 @@
 ---
 title: Lifestyle Choices
 date: 2018-9-24 10:00:00
-category: Public Health Industry
+category: public health industry
 ---
 
 ![](/images/7.jpg)
