@@ -1,7 +1,7 @@
 ---
 title: This Tobacco Company Tried To Stop The San Francisco Bay Area Flavor Ban
 date: 2018-8-14 10:15:00
-category: Vaping News
+category: vaping news
 ---
 
 ![](/images/3.jpg)
