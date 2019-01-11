@@ -1,14 +1,14 @@
 menu:
   Home: /
-  Archive: /archives
+  Archive: archives/
 
-logo: FCS
+logo: ACPM-i
 
 more:
-  About Us: /about
+  About Us: about/
 
 about:
-  title: Theme ACB
+  title: Theme ACPM International
   link: /
 
 show_toc_bool: true
@@ -29,4 +29,4 @@ valine:
 
 excerpt_num: 120
 
-footer_info: © FCS 2013-2018
+footer_info: ©ACPM-i 2013-2018
