@@ -30,7 +30,7 @@ Both of the vape devices adopt black and grey and make it in a modern and simple
 
 ##### 1.Pod System
 
-As a pre-filled system pod mod, the real essence of the vape experience boils down to the pods themselves. The Hexa pods adopt ceramic coils which provided by FEELM Tech, a company that is aimed at improving vaping performance with its [new vaping technology that increases safety and efficiency of the heating process](www.feelmtech.com/). As satisfying as this pod is, this technology can heat and vaporize the E-liquid uniformly and sufficiently, making sure each puff is soft and smooth. Compared to another closed pod system brand JUUL, it produces more clouds and a more natural flavor. Moreover, in our test, the pods do not show any sign of leaking, which is a difficult problem to fix in the closed pod system.
+As a pre-filled system pod mod, the real essence of the vape experience boils down to the pods themselves. The Hexa pods adopt ceramic coils which provided by FEELM Tech, a company that is aimed at improving vaping performance with its [new vaping technology that increases safety and efficiency of the heating process](https://www.feelmtech.com/). As satisfying as this pod is, this technology can heat and vaporize the E-liquid uniformly and sufficiently, making sure each puff is soft and smooth. Compared to another closed pod system brand JUUL, it produces more clouds and a more natural flavor. Moreover, in our test, the pods do not show any sign of leaking, which is a difficult problem to fix in the closed pod system.
 
 ![](/images/14.jpg)
 
