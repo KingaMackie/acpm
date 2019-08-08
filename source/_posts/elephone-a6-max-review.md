@@ -14,6 +14,8 @@ After the successful launch of U2, the Chinese mobile phone brand Elephone will 
 
 Needless to say, Elephone A6 Max has a bigger screen than that of A6 Mini, featuring a 6.53-inch Drop Notch Screen with thin bezels on the side. Though the screen-to-body ratio of A6 Max is not as high as that of Elephone U2, the drop notch design doesn't take up too much space, saving a relatively significant portion of space for the screen. Furthermore, the 720*1560 screen resolution of A6 Max provides a vivid bright display on the big screen. The finger scanner is on the back of A6 Max, which is a convenient design. With the camera placed on the upper left corner vertically with an LED flash, the back of A6 Max also looks similar to A6 Mini, with an extra touch of elegance and fashion.
 
+<!-- more -->
+
 ![](/img/2.png)
 
 #### Camera
